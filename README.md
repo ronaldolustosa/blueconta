@@ -39,4 +39,21 @@ Este projeto foi criado com foco em aprendizado e gestão simples de contas a pa
 ---
 
 ## 📦 Estrutura de Pastas
+📁 db → Scripts e base de dados Firebird
+📁 img → Ícones e imagens do sistema
+📄 *.pas / *.dfm → Códigos-fonte Delphi
+
+
+---
+
+## 🧾 Observação
+
+Arquivos de compilação temporários (`.dcu`, `.identcache`, `.res`, `Win32`, `_history`, `_recovery`) **não estão incluídos** no repositório, pois são gerados automaticamente.
+
+---
+
+## 👨‍💻 Autor
+
+**Ronaldo Lustosa**  
+💬 Projeto desenvolvido para estudo e prática de Delphi profissional.
 
